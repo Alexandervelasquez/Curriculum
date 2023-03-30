@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}#sidebar{
+    position: fixed;
+    width: 200px;
+    height: 100%;
+    background: #3989df;
+}
+
+#sidebar ul li{
+
+    color: rgba(230, 230,230, 0.9);
+    text-align: center;
+    padding: 10px 5px;
+    border-bottom: 2.5px solid rgba(0, 0, 0, 0.658);
+}
+
+.logo{
+    padding: 20px;
+    border-radius: 50%;
+    width: 150px;
+    height: 130px;
+    display: block;
+    margin: 0 auto;
+}
